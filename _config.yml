@@ -65,7 +65,8 @@ gitalk:
   clientSecret: aa0f34054b3dcfec16211b039c42b7a30e84b02c    #生成的clientSecret
   repo: quillerf.github.io    #仓库名称
   owner: QuillerF    #github用户名
-  admin: QuillerF
+  admin: QuillerF,
+  id: 'window.location.pathname',
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
