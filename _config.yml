@@ -4,8 +4,8 @@ SEOTitle: 小熊的博客 | XX Blog
 header-img: img/post-bg-swift2.jpg
 email: xiaoxiong@gmail.com
 description: "Every failure is leading towards success."
-keyword: "xiaoxiong, XX Blog, 小熊的博客, qiubaiying, 前端开发,vue"
-url: "http://xiaoxiong.github.io"          # your host, for absolute URL
+keyword: "xiaoxiong, XX Blog, 小熊的博客, 前端开发,vue"
+url: "http://QuillerF.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/QuillerF/xiaoxiong.github.io.git" # you code repository
 
