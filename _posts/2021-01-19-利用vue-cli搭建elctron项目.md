@@ -80,7 +80,7 @@ yarn add --force node-sass
 
 再吃运行仍然报错
 
-![截图](../img/09c9fc2d91cf62626599166fbfa81d97.png)
+![截图](https://files.catbox.moe/4nvcd5.png)
 
 ```
 

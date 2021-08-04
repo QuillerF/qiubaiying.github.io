@@ -2,7 +2,7 @@
 layout: post
 title: 什么是serverLess?
 subtitle: 探究新技术
-date: 2020-03-08
+date: 2021-03-08
 author: XX
 header-img: img/home-bg-o.jpg
 catalog: true
@@ -12,9 +12,9 @@ tags:
 ---
 
 什么是serverless?
-![截图](../img/7dfdf4df8bda5e0c88b1df9d001a77a1.png)
+![截图](https://files.catbox.moe/2sr8t0.png)
 
-![截图](../img/3a54ff3a97759077058c1e49647f0355.png)
+![截图](https://files.catbox.moe/lbz327.png)
 
 当客户端和数据库未发生变的前提下，服务器变化巨大，
 
